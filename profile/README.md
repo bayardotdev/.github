@@ -26,6 +26,6 @@ bayar.dev engineers edge-routing and streaming infrastructure designed to connec
 
 ### Connect
 
-* **Founder Profile:** [@bayarai](https://github.com/bayarai)
+* **Founder Profile:** [@bayxdev](https://github.com/bayxdev)
 * **Direct Inquiries:** [hi@bayar.dev](mailto:hi@bayar.dev)
 * **LinkedIn:** [linkedin.com/in/bayardev](https://www.linkedin.com/in/bayardev)
